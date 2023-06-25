@@ -1,0 +1,7 @@
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\bin\Release\AddNum.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\bin\Release\AddNum.pdb
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\obj\Release\AddNum.csproj.AssemblyReference.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\obj\Release\AddNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\obj\Release\AddNum.csproj.CoreCompileInputs.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\obj\Release\AddNum.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\AddNum\obj\Release\AddNum.pdb

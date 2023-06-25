@@ -1,0 +1,7 @@
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\bin\Debug\AddNum.exe
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\bin\Debug\AddNum.pdb
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\obj\Debug\AddNum.csproj.AssemblyReference.cache
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\obj\Debug\AddNum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\obj\Debug\AddNum.csproj.CoreCompileInputs.cache
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\obj\Debug\AddNum.exe
+C:\Users\Ben Sbanotto\RiderProjects\Learning_C-sharp\HelloWorld\AddNum\obj\Debug\AddNum.pdb

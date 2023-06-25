@@ -1,0 +1,7 @@
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\obj\Release\FizzBuzz.csproj.AssemblyReference.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\obj\Release\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\obj\Release\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\bin\Release\FizzBuzz.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\bin\Release\FizzBuzz.pdb
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\obj\Release\FizzBuzz.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\FizzBuzz\obj\Release\FizzBuzz.pdb

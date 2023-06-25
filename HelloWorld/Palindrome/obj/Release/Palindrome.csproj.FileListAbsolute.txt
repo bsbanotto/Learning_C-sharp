@@ -1,0 +1,7 @@
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\obj\Release\Palindrome.csproj.AssemblyReference.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\obj\Release\Palindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\obj\Release\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\bin\Release\Palindrome.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\bin\Release\Palindrome.pdb
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\obj\Release\Palindrome.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\Palindrome\obj\Release\Palindrome.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\bin\Release\MoveZeros.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\bin\Release\MoveZeros.pdb
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\obj\Release\MoveZeros.csproj.AssemblyReference.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\obj\Release\MoveZeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\obj\Release\MoveZeros.csproj.CoreCompileInputs.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\obj\Release\MoveZeros.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MoveZeros\obj\Release\MoveZeros.pdb

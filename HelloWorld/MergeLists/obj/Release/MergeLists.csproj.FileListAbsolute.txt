@@ -1,0 +1,7 @@
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\bin\Release\MergeLists.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\bin\Release\MergeLists.pdb
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\obj\Release\MergeLists.csproj.AssemblyReference.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\obj\Release\MergeLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\obj\Release\MergeLists.csproj.CoreCompileInputs.cache
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\obj\Release\MergeLists.exe
+C:\Users\Ben Sbanotto\RiderProjects\HelloWorld\MergeLists\obj\Release\MergeLists.pdb
